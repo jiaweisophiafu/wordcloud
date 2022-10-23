@@ -45,3 +45,4 @@ library("RColorBrewer")
 textplot_wordcloud(dfm_SF, max_words = 100, color = RColorBrewer::brewer.pal(10, "RdBu")) 
 textplot_wordcloud(dfm_SF, max_words = 100, color = RColorBrewer::brewer.pal(10, "Reds")) 
 textplot_wordcloud(dfm_SF, max_words = 100, color = "gray40") ##final one
+
